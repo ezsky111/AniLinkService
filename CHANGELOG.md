@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/ezsky111/AniLinkService/compare/v1.1.0...v1.2.0) (2026-08-08)
+
+
+### Features
+
+* 重构菜单项，将系统设置相关项移至单独的菜单组 ([4e00f34](https://github.com/ezsky111/AniLinkService/commit/4e00f34584e01f123aae45d828e2942ce05b82f0))
+
 ## [1.1.0](https://github.com/ezsky111/AniLinkService/compare/v1.0.1...v1.1.0) (2026-08-08)
 
 
