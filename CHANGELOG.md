@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ezsky111/AniLinkService/compare/v1.0.1...v1.1.0) (2026-08-08)
+
+
+### Features
+
+* 添加 DOMPurify 和 marked 库以支持 Markdown 渲染和安全处理 ([c834cdb](https://github.com/ezsky111/AniLinkService/commit/c834cdb161e907b02d6f37f9e2fd52f21ff8a613))
+
 ## [1.0.1](https://github.com/ezsky111/AniLinkService/compare/v1.0.0...v1.0.1) (2026-08-08)
 
 
