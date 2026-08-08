@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ezsky111/AniLinkService/compare/v1.0.0...v1.0.1) (2026-08-08)
+
+
+### Bug Fixes
+
+* 优化平板/移动端控件约束，修复播放页控件hover失效的问题 ([1fc06a7](https://github.com/ezsky111/AniLinkService/commit/1fc06a7fb497afd704698bc77045378b9057c800))
+
 ## 1.0.0 (2026-08-07)
 
 
