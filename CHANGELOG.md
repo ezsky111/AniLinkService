@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/ezsky111/AniLinkService/compare/v1.2.0...v1.2.1) (2026-08-08)
+
+
+### Bug Fixes
+
+* 修复追番页面，当需要手动匹配时，搜索结果未展示animeTitle的问题 ([9904228](https://github.com/ezsky111/AniLinkService/commit/9904228b3b19cfc0c9d5fe4ccbc20f44b0e9fbc0))
+
 ## [1.2.0](https://github.com/ezsky111/AniLinkService/compare/v1.1.0...v1.2.0) (2026-08-08)
 
 
