@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/ezsky111/AniLinkService/compare/v1.2.1...v1.2.2) (2026-08-08)
+
+
+### Bug Fixes
+
+* 为 MCP 列表类工具增加 limit 参数并截断返回，防止 LLM 上下文过长 ([5f637ad](https://github.com/ezsky111/AniLinkService/commit/5f637ad5c796c1e05d011305cacac14909318b51))
+
 ## [1.2.1](https://github.com/ezsky111/AniLinkService/compare/v1.2.0...v1.2.1) (2026-08-08)
 
 
