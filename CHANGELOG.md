@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ezsky111/AniLinkService/compare/v1.2.2...v1.3.0) (2026-08-08)
+
+
+### Features
+
+* 新增定时任务管理后台及番剧信息补全同步任务 ([05f7df9](https://github.com/ezsky111/AniLinkService/commit/05f7df97adaf276bb83264196bc62e9ec19c8522))
+
 ## [1.2.2](https://github.com/ezsky111/AniLinkService/compare/v1.2.1...v1.2.2) (2026-08-08)
 
 
